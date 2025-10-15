@@ -25,7 +25,7 @@ function NavBar({scrolled}) {
                         <div className="dropdown-menu bg-dark text-white d-felx justify-content-center text-center ">
                             <div className=' d-flex col-12 px-3 mb-1 align-items-center'>
                                 <img className='avatar-icon-sub col-6' src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Netflix-avatar.png" alt="" />
-                                <h6 className='col-5'>PRASAD</h6>
+                                <h6 className='col-5'>Divya goud</h6>
                             </div>
                         </div>
                     </div>
